@@ -1,0 +1,5 @@
+Dof::Dof(int pin){
+    pinMode(pin, OUTPUT);
+    pin = pin;
+
+}
